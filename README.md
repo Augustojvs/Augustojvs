@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Augusto!](https://github.com/Augustojvs) 
 
-<a href="https://www.linkedin.com/in/augusto-junio-vieira-da-silva-41728a168">
+<a href="https://www.linkedin.com/in/augustojvs/">
   <img align="left" alt="Augusto's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/augusto_jvs/">
@@ -13,14 +13,14 @@
 <br />
 <br />
 
-Hello, I'm Augusto Silva, web developer 🚀 from Brazil, currently studying information systems at [Una](https://www.una.br/) 👨🏽‍💻, I really like programming and I like challenges, I intend to specialize in data security, in my spare time, I like to play video games and ride my bike 🚴.
+Hello, I'm Augusto Silva, web developer 🚀, i'm from Brazil, currently studying information systems at [Una](https://www.una.br/) 👨🏽‍💻, I really like programming and I like challenges, I intend to specialize in data security. In my spare time, I like to play video games and ride my bike 🚴.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Intersete Telecom](http://www.intersete.com.br/);
-- 🌱 I’m currently Node js, React and React Native; 
+- 🌱 I'm currently studying Node js, React and React Native; 
 - 💬 Ask me about anything, I'm happy to help with the little I know 😀;
 - 👪 Helena's dad ❤️;
 - ⚡️ Fun-Fact: I was a machine operator at [Norte Sul Terraplanagem](http://nortesuloc.com.br/site/) until the beginning of 2018, that's when I resumed my studies!
