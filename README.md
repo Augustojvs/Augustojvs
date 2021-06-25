@@ -50,7 +50,7 @@ Hello, I'm Augusto Silva, web developer 🚀, i'm from Brazil, currently studyin
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Augustojvs&repo=NextLevelWeek01" />
 </a>
 
-<a href="https://github.com/Augustojvs/Semana-OmniStack-9.0">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Augustojvs&repo=Semana-OmniStack-9.0" />
+<a href="https://github.com/Augustojvs/NLW-6-Together">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Augustojvs&repo=NLW-6-Together" />
 </a>
 
