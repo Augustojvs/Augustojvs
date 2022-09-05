@@ -13,14 +13,14 @@
 <br />
 <br />
 
-Hello, I'm Augusto Silva, web developer 🚀, i'm from Brazil, currently studying information systems at [Una](https://www.una.br/) 👨🏽‍💻, I really like programming and I like challenges, I intend to specialize in data security. In my spare time, I like to play video games and ride my bike 🚴.
+Hello, i'm Augusto Silva, web developer 🚀, i'm from Brazil, i'am graduated in information systems by the [Una](https://www.una.br/) 👨🏽‍💻, i really like programming and i like challenges, I intend to specialize in data security. In my spare time, I like to play video games and ride my bike 🚴.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Info Sistemas](https://www.infosistemas.com.br/);
-- 🌱 I'm currently studying Node js, React, Angular and Ionic; 
+- 🌱 I'm currently studying Node js, React and Docker; 
 - 💬 Ask me about anything, I'm happy to help with the little I know 😀;
 - 👪 Helena's dad ❤️;
 - ⚡️ Fun-Fact: I was a machine operator at [Norte Sul Terraplanagem](http://nortesuloc.com.br/site/) until the beginning of 2018, that's when I resumed my studies!
